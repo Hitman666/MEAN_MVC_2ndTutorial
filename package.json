@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Hitman666/MEAN_MVC_2ndTutorial",
   "dependencies": {
+    "ejs": "^2.0.6",
     "express": "^4.10.7"
   }
 }
